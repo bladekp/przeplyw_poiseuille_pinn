@@ -1,0 +1,12 @@
+deepxde
+numpy
+matplotlib
+pandas
+jupyterlab
+jupyter
+tensorflow
+torch>=2
+torchopt
+imageio
+imageio[ffmpeg]
+
